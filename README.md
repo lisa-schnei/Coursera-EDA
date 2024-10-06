@@ -1,6 +1,6 @@
 # Project: Coursera Exploratory Data Analysis
-
 ---
+
 
 ## Project Objective
 Objective for this project was to do an exploratory data analysis (EDA) with python for a dataset containing scrapped data from Coursera (https://www.coursera.org/) of available courses on the website. 
@@ -18,8 +18,8 @@ Python in jupyter notebook
 
 ## Project Content
 
-**Coursera EDA.ipynb** - jupyter notebook file containing python code and walk-through of the EDA<br>
-**coursera_data.csv** - raw data file used for the analysis
+- **Coursera EDA.ipynb** - jupyter notebook file containing python code and walk-through of the EDA<br>
+- **coursera_data.csv** - raw data file used for the analysis
 
 ## Business insights
 _A full list of key findings and insights can be found in the notebook._
